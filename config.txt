@@ -1,0 +1,18 @@
+# Configuration file for CAEN channels
+#
+# Det	- CAEN channel number
+# Name	- Label for your convenience, to make the file more readable
+# Type 	- 0: Ge detectors, 1:Si detectors
+# Number- Labels detectors within a given type
+# Slope - Calibration value (m)
+# Offset- Calibration value (c)
+#
+# Det	Name	Type	Number	Slope	Offset
+0140	Ge0	0	0	1.18554	0.94810
+0141	Si0	1	0	0.98180	6.41400
+0142	empty	0	1	1	0
+0143	empty	1	1	1	0
+0144	empty	0	0	1	0
+0145	empty	0	0	1	0
+0146	empty	0	0	1	0
+0147	empty	0	0	1	0
