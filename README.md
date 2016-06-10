@@ -1,6 +1,7 @@
 # DSS Data Fitter
 
 ![alt text](https://img.shields.io/badge/License-MIT-blue.svg 'License')
+![alt text](https://img.shields.io/badge/Python-3.5-green.svg 'Python version')
 ![alt text](https://img.shields.io/badge/Tested_on-Linux/Mac-green.svg 'Supported platform')
 ![alt text](https://img.shields.io/badge/Not_tested_on-Windows-red.svg 'Unsupported platform')
 
@@ -12,7 +13,7 @@ DSS Data Fitter is a GUI for viewing and fitting the DSS data collected with the
 - Wouter Gins (wouter.gins@fys.kuleuven.be)
 
 ## Features
-- Written in Python 2.7 and PyQt4
+- Written in Python 3.5 and PyQt4
 - Tested on Mac OS X and Linux 
 
 ## Installation
