@@ -6,7 +6,7 @@
 ![alt text](https://img.shields.io/badge/Not_tested_on-Windows-red.svg 'Unsupported platform')
 
 ## Purpose
-DSS Data Fitter is a GUI for viewing and fitting the DSS data collected with the MIDAS software and CAEN data acquisition hardware. The DSS is the Decay Spectroscopy Station, installed at the [Collinear Resonance Ionization](http://isolde-cris.web.cern.ch/) (CRIS) experiment, at the ISOLDE facility, CERN.
+DSS Data Fitter is a GUI for viewing and fitting the DSS data collected with the MIDAS software and CAEN data acquisition hardware. The DSS is the Decay Spectroscopy Station, installed at the [Collinear Resonance Ionization Spectroscopy](http://isolde-cris.web.cern.ch/) (CRIS) experiment, at the ISOLDE facility, CERN.
 
 ## Contributors
 - Kara Marie Lynch (kara.marie.lynch@cern.ch)
