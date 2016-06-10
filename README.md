@@ -20,10 +20,10 @@ DSS Data Fitter is a GUI for viewing and fitting the DSS data collected with the
 - Install DSS Data Fitter directory in location of choice
 
 ## Dependencies
-- numpy 
-- PyQt4
-- pyqtgraph
-- matplotlib 
+- [NumPy](http://www.numpy.org/)
+- [PyQt4](https://pypi.python.org/pypi/PyQt4)
+- [PyQtGraph](http://www.pyqtgraph.org/)
+- [Matplotlib](http://matplotlib.org/)
 
 ## Usage
 Create `config.txt` file to identify the CAEN channels used when acquiring the data
@@ -39,7 +39,7 @@ Tab 1: ‘Plot Data’
 Tab 2: ‘Fit Data’
 - Fit 1 or 2 peaks to the data
 - Choose line profiles (Gaussian or CrystalBall so far)
-- Fit routine outputs reduced chi2
+- Fit routine outputs fit parameters and reduced chi2
 
 Tab 3: ‘Data Rate’
 - Total count rate for data file
