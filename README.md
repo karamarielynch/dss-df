@@ -13,7 +13,7 @@ DSS Data Fitter is a GUI for viewing and fitting the DSS data collected with the
 
 ## Features
 - Written in Python 3.5 and PyQt4
-- Tested on Mac OS X and Linux 
+- Tested on Mac OS X, Linux and Windows 
 
 ## Installation
 - Install DSS Data Fitter directory in location of choice
